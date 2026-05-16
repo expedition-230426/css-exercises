@@ -3,11 +3,13 @@
 background-color:lightpink;
 font-family:"Verdana", "DejaVu Sans", sans-serif;
 }
+
 #idk{
     color: blue;
     font-size: 36px;
 }
-#lol{
+
+.wtf{
     font-size: 24px;
 }
 
